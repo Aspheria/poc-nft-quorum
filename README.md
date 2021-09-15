@@ -1,6 +1,5 @@
 # poc-nft-quorum
 
-# NFT Marketplace
 
 # Summary
 
