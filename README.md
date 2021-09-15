@@ -104,4 +104,4 @@ This project is under the **MIT license**. See the [LICENSE](https://github.com/
 
 ## Authors
 
-  Made by <b>Lorrane Pärrilla</b>, <b>Natalie Bravo</b> and <b>Vinicius Freire</b>.
+  Made by <b>Lorrane Pärrilla</b>, <b>Natalie Bravo</b>.
