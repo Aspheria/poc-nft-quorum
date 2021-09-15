@@ -68,8 +68,7 @@ To run the application you'll need:
 * [Yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/)
 * [Truffle](https://www.trufflesuite.com/)
 * [Ganache](https://www.trufflesuite.com/ganache)
-* Clone the repository:
-  * ```$ git clone https://github.com/bitshopp/nft-case-studies.git ```
+
 
 
 Now go to project folder and run:
