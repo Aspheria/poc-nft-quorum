@@ -1,5 +1,4 @@
-# poc-nft-quorum
-
+# NFT Marketplace
 
 # Summary
 
@@ -70,7 +69,7 @@ To run the application you'll need:
 * [Truffle](https://www.trufflesuite.com/)
 * [Ganache](https://www.trufflesuite.com/ganache)
 * Clone the repository:
-  * ```$ git@github.com:Aspheria/poc-nft-quorum.git ```
+  * ```$ git clone https://github.com/bitshopp/nft-case-studies.git ```
 
 
 Now go to project folder and run:
@@ -96,8 +95,13 @@ $ yarn
 $ yarn start
 ```
 
+<a id='license'/>
+
+## :page_with_curl: License
+
+This project is under the **MIT license**. See the [LICENSE](https://github.com/bitshopp/nft-case-studies/blob/master/nft-quorum-poc/LICENSE) for more information.
 
 
 ## Authors
 
-  Made by <b>Lorrane Pärrilla</b> and <b>Natalie Bravo</b>.
+  Made by <b>Lorrane Pärrilla</b>, <b>Natalie Bravo</b> and <b>Vinicius Freire</b>.
